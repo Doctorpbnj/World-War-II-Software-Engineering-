@@ -88,7 +88,7 @@
   $year = isset($_GET['year']) && !ctype_space($_GET['year']) ? $_GET['year'] : "----";
 ?>
 
-
+<!DOCTYPE HTML>
 
 <html>
 	 <head>

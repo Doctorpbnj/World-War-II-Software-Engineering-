@@ -1,4 +1,4 @@
-<div align="left" >
+<div align="left" style = "font-weight:bold">
 	
 	<a href="viewauthor.php?firstname=<?php echo $array['firstname']?>&lastname=<?php echo $array['lastname']?>">Back to <?php echo $array['firstname'] ?>  <?php echo $array['lastname'] ?>'s page</a>
 </div>
